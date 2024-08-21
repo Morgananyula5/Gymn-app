@@ -22,7 +22,3 @@ The aim of this project is to show the exercises that they can do to gym beginne
 * Firebase
 * Kotlin
 
-## Contact
-Mail: enessah200@gmail.com\
-LinkedIn: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)\
-Project Link: [Gym-App](https://github.com/enes-sahinn/Gym-App)
